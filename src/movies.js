@@ -29,7 +29,7 @@ export default [
         director: ' Anthony Russo Joe Russo',
         year: '2019',
         imageUrl:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNZ-1hREQVcizp7gB7hKFvHajOpT9sMtudQ&s',
-        rating: '8.4',
+        rating: 8.4,
         description: "After the devastating events of Отмъстителите: Война без край (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos'"
       }
 ]
